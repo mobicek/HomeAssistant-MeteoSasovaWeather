@@ -18,4 +18,6 @@ weather:
 
 2. Copy meteosasova component to **config_dir/custom_components**   
 
+3. Set up your weather card with new meteosasova weather entity
+
 3. Restart your Home Assistant server
