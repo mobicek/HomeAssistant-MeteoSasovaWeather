@@ -2,8 +2,8 @@
 
 Custom component for MeteoSasova weather station
 
-![Image of Preview1](https://github.com/mobicek/HomeAssistant-MeteoSasovaWeather/blob/main/images/preview1.png)
-![Image of Preview2](https://github.com/mobicek/HomeAssistant-MeteoSasovaWeather/blob/main/images/preview2.png)
+![Image of Preview1](https://github.com/mobicek/HomeAssistant-MeteoSasovaWeather/blob/main/images/detail.png)
+![Image of Preview2](https://github.com/mobicek/HomeAssistant-MeteoSasovaWeather/blob/main/images/card.png)
 
 Installation:
 
