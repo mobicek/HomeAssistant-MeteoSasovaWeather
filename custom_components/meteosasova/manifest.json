@@ -1,0 +1,8 @@
+{
+  "domain": "meteosasova",
+  "name": "Meteo sasova weather station",
+  "documentation": "https://github.com/mobicek/HomeAssistant-MeteoSasovaWeather",
+  "dependencies": [],
+  "codeowners": ["@mobicek"],
+  "requirements": []
+}
